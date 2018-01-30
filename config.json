@@ -1,0 +1,15 @@
+{
+    "title": "test",
+    "baseURL": "https:\/\/test.preview.stage",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758403",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "preview.stage"
+    }
+}
