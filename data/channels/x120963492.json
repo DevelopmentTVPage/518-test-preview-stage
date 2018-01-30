@@ -1,0 +1,25 @@
+{
+    "title": "abcd123",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1507078765",
+    "date_modified": "1516843053",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "seo_description": null,
+    "id": "120963492",
+    "loginId": "1758403",
+    "entityType": "3",
+    "titleTextEncoded": "abcd123",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "enableSubscribers": true
+    },
+    "transcripts": null
+}

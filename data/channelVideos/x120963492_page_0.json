@@ -1,0 +1,49 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "120831653",
+            "title": "HSN | Connected Life: Ally Ford Part 4",
+            "date_created": "1507052268",
+            "loginId": "1758403",
+            "tags": "",
+            "description": "Shop HSN Connected Life at https:\/\/goo.gl\/sjTNLP\n\nLearn how to get connected.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/YiVaL2mJbF8\/maxresdefault.jpg",
+                "uploadDate": 1507052268,
+                "videoId": "YiVaL2mJbF8",
+                "title": "HSN | Connected Life: Ally Ford Part 4",
+                "description": "Shop HSN Connected Life at https:\/\/goo.gl\/sjTNLP\n\nLearn how to get connected.",
+                "author": "HSN",
+                "mediaDuration": 66,
+                "prettyDuration": "00:01:06",
+                "views": "7"
+            },
+            "parentId": "120963492",
+            "url": "\/abcd123\/hsn-connected-life-ally-ford-part-4\/120963492-120831653"
+        },
+        {
+            "id": "120831654",
+            "title": "HSN | Connected Life: Ally Ford Part 3",
+            "date_created": "1507052268",
+            "loginId": "1758403",
+            "tags": "",
+            "description": "Shop HSN Connected Life at https:\/\/goo.gl\/sjTNLP\n\nLearn how to get connected.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/HYffJeozEuk\/maxresdefault.jpg",
+                "uploadDate": 1507052268,
+                "videoId": "HYffJeozEuk",
+                "title": "HSN | Connected Life: Ally Ford Part 3",
+                "description": "Shop HSN Connected Life at https:\/\/goo.gl\/sjTNLP\n\nLearn how to get connected.",
+                "author": "HSN",
+                "mediaDuration": 84,
+                "prettyDuration": "00:01:24",
+                "views": "31"
+            },
+            "parentId": "120963492",
+            "url": "\/abcd123\/hsn-connected-life-ally-ford-part-3\/120963492-120831654"
+        }
+    ]
+}
